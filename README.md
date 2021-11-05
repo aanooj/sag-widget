@@ -1,2 +1,3 @@
 # sag-widget
-Created with CodeSandbox
+
+Widget component to inject UI into SAG website
